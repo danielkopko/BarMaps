@@ -46,3 +46,17 @@ Its lobby picture is in this repo's `LuaMenu` folder too (`LuaMenu\Images\Minima
 ### Install
 
 The map is on this repo's release: download [star_fort_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/star-fort-1.0/star_fort_1.0.sd7) and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Star_Fort_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
+
+## Edge Keeps 1.0
+
+`edge_keeps_1.0.sd7`: a 24 × 24 map for four kings and their peasants, 16 players (4 teams of 4). Every quarter of it is the same, turned about the centre. Its detail textures and gadgets are All That Simmers' by Nikuksis; the firs and birches are from Crimson Bay.
+
+- **Each king holds a keep**, a granite cliff-top jutting from the middle of an edge. A ramp climbs it from the loch side for every unit, and bots-only zigzags climb both its flanks.
+- **The peasants** hold the corner beside their keep, under the next king's cliff, so two kings look down on every corner.
+- **A loch** with an isle lies in the middle, crossed by stone causeways.
+- **Metal:** 56 spots, 28.4 metal/s a team, and 9 geothermal vents: one on each keep, one in each corner, one on the isle.
+- **The Heath planet:** a highland moor of rolling heather and moor grass, peat hags, pinewoods and birch copses, granite tors and crags, under a grey, misty sky.
+
+### Install
+
+Download [edge_keeps_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/edge-keeps-1.0/edge_keeps_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Edge_Keeps_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
