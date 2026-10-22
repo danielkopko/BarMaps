@@ -32,3 +32,17 @@ BAR's lobby only shows pictures for maps it already knows. To see this map's pic
 The map is 112 MB, over GitHub's limit for a file kept in a repository, so it is on this repo's release instead: download [five_rivers_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/five-rivers-1.0/five_rivers_1.0.sd7) and copy it into BAR's `maps` folder.
 
 Its lobby picture is in this repo's `LuaMenu` folder too (`LuaMenu\Images\Minimaps\Five_Rivers_1.0.jpg`, also on the release): copy it in as for Simmering Ravine above.
+
+## Star Fort 1.0
+
+`star_fort_1.0.sd7`: a 28 × 28 map for five kings and their peasants, 20 players (5 teams of 4). Every fifth of it is the same, turned about the centre. Its palms, detail textures and gadgets are All That Simmers' by Nikuksis.
+
+- **One star fort holds all five kings**, each on a raised bastion: a flagstone court behind earth ramparts, round a spire in the middle.
+- **A ramp** climbs in at each bastion's point, facing its peasants, for every unit. **Bots-only zigzags** cut up both flanks. There are no doors: the ramparts are earth, flat on top, so you can build on them.
+- **The peasants** hold five realms of dunes outside the fort, parted by sandstone ridges with a bots-only pass over each.
+- **Metal:** 70 spots, 27.2 metal/s a team, and 10 geothermal vents: one in each bastion, one in each realm.
+- **The Dune planet:** golden dunes and sandstone under a deep blue sky, with palm oases at the ramps' feet, desert rocks, and half-buried wrecks.
+
+### Install
+
+The map is on this repo's release: download [star_fort_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/star-fort-1.0/star_fort_1.0.sd7) and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Star_Fort_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
