@@ -17,3 +17,18 @@ Maps for [Beyond All Reason](https://www.beyondallreason.info/).
 Copy `simmering_ravine_1.5.sd7` into BAR's `maps` folder (usually `%LOCALAPPDATA%\Programs\Beyond-All-Reason\data\maps`).
 
 BAR's lobby only shows pictures for maps it already knows. To see this map's picture on the setup screen, also copy this repo's `LuaMenu` folder into BAR's data folder (the one that holds `maps`), then restart the lobby. That adds `LuaMenu\Images\Minimaps\Simmering_Ravine_1.5.jpg`. Each player's lobby reads its own data folder, so other players see the picture only if they copy it too.
+
+## Five Rivers 1.0
+
+`five_rivers_1.0.sd7`: a 28 × 28 map for five kings and their peasants, 20 players (5 teams of 4). Every fifth of it is the same, turned about the centre. Its plants, detail textures and gadgets are All That Simmers' by Nikuksis.
+
+- **Each king** holds an oval cliff-top hall on the rim. A graded ramp faces the king's peasants; bots-only zigzag switchbacks climb the other three sides. The cliffs stop everything but spiders.
+- **Five rivers** run out from a lake between the realms, each crossed by a stone bridge and a gravel ford. A bridge from each realm crosses the lake to the isle.
+- **Metal:** 75 spots, 24.3 metal/s a team, and 11 geothermal vents: one on each hall, one in each realm, one on the isle.
+- **The Bloom planet:** a glowing night world of teal moss, cyan-lit rivers, giant trees, mushrooms and crystals.
+
+### Install
+
+The map is 112 MB, over GitHub's limit for a file kept in a repository, so it is on this repo's release instead: download [five_rivers_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/five-rivers-1.0/five_rivers_1.0.sd7) and copy it into BAR's `maps` folder.
+
+Its lobby picture is in this repo's `LuaMenu` folder too (`LuaMenu\Images\Minimaps\Five_Rivers_1.0.jpg`, also on the release): copy it in as for Simmering Ravine above.
