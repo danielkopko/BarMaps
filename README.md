@@ -60,3 +60,16 @@ The map is on this repo's release: download [star_fort_1.0.sd7](https://github.c
 ### Install
 
 Download [edge_keeps_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/edge-keeps-1.0/edge_keeps_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Edge_Keeps_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
+
+## Corner Fortresses 1.0
+
+`corner_fortresses_1.0.sd7`: a 24 × 24 map for four kings and their peasants, 16 players (4 teams of 4). Every quarter of it is the same, turned about the centre. Its detail textures and gadgets are All That Simmers' by Nikuksis; the crates and trucks are from Industrial Revolution.
+
+- **Each king holds a corner fortress**, a raised, paved yard behind earth ramparts. A ramp climbs through its gate for every unit, and bots-only zigzags cut through both inner ramparts. There are no doors: the ramparts are earth, flat on top, so you can build on them.
+- **All twelve peasants** live in the middle, round a brick market square. Acid lakes part the fortresses, and they hurt anything in them.
+- **Metal:** 64 spots, 32.8 metal/s a team, about 9,100 metal a team to reclaim in wrecks and rubble, and 9 geothermal vents.
+- **The Forge planet:** a derelict industrial estate of cracked concrete lots and weedy waste ground, ruined works, container yards and trucks, under a brown smog sky.
+
+### Install
+
+Download [corner_fortresses_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/corner-fortresses-1.0/corner_fortresses_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Corner_Fortresses_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
