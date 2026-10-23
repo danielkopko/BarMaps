@@ -73,3 +73,17 @@ Download [edge_keeps_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/do
 ### Install
 
 Download [corner_fortresses_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/corner-fortresses-1.0/corner_fortresses_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Corner_Fortresses_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
+
+## Starfall Marsh 1.0
+
+`starfall_marsh_1.0.sd7`: a 16 × 16 map for 2v2, north against south, the south the north's mirror image. A giant warship crashed into a jungle marsh centuries ago, and the jungle has been taking it back. The ship and its wreckage were modelled and painted for this map; its trees, ferns, detail textures and gadgets are All That Simmers' by Nikuksis.
+
+- **The ship** lies across the middle in angular, layered armour (gunmetal, faded crimson, brass, cyan seams still faintly alight): its engines over a reed marsh in the furrow it ploughed, its aft hull with the bridge tower, broken in two, its fore hull diving nose-first into a huge mound of overgrown dirt. It walls the halves apart.
+- **Three ways across:** the shallow marsh past the engines, the breach where it broke, and over the mound (a track up its north-east flank; its west face is for bots) or round it.
+- **Wreckage** everywhere, heaviest at the crash site, small scraps by the bases: about 7,200 metal a team to reclaim.
+- **Metal:** four spots at each start and six on the wreck, and two geothermal vents where the reactor spilled.
+- **The jungle:** kapok and banyan giants, oaks, palms, mangroves and reeds in the shallows, ferns everywhere.
+
+### Install
+
+Download [starfall_marsh_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/starfall-marsh-1.0/starfall_marsh_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Starfall_Marsh_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
