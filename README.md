@@ -87,3 +87,17 @@ Download [corner_fortresses_1.0.sd7](https://github.com/danielkopko/BarMaps/rele
 ### Install
 
 Download [starfall_marsh_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/starfall-marsh-1.0/starfall_marsh_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Starfall_Marsh_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
+
+## Red Dust Open Cut 1.0
+
+`red_dust_open_cut_1.0.sd7`: a 24 × 24 map for 2v2, west against east, and not symmetric. An outback open-cut mine left days before the war: the trucks stand where the crews parked them, an ore train waits half-loaded, and red dust lies over everything. Every machine, building and plant was modelled and painted for this map; its detail textures and gadgets are All That Simmers' by Nikuksis.
+
+- **The pit** runs from the middle to the map's south edge: eight benches down through red oxide, kaolin and clays to fresh rock, narrowing at a waist into a broad lobe, with a green pool against the edge. Four haul ramps (two a team) and a slide bots can climb lead down to a shared floor. Three bucket wheel excavators work it: one on its terrace at the north end, and two cutting round bites into the lobe's walls.
+- **The railway** crosses the north lane: three locos and 28 ore wagons from the map's edge to a loco shed by the rim, fed by a crusher and an overland conveyor. The train is indestructible and walls the lane, but for three gaps.
+- **The west** is the plant side (the ROM pad, the plant's tanks and towers, a tailings dam); **the east** the dump side (two terraced waste dumps, the workshop and its fuel farm). Each team's driving distance to the pit, its own ramps and the enemy was checked to match.
+- **Metal:** four spots at each start, two forward of each team, one down each of a team's ramps, and six on the pit floor, with a geothermal vent there; 3,370 metal of machines to reclaim on each side.
+- **The outback:** red pindan in low swells and small mounds, dry washes, spinifex and saltbush, ghost gums along the creeks, termite mounds and breakaways.
+
+### Install
+
+Download [red_dust_open_cut_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/red-dust-open-cut-1.0/red_dust_open_cut_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Red_Dust_Open_Cut_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
