@@ -101,3 +101,18 @@ Download [starfall_marsh_1.0.sd7](https://github.com/danielkopko/BarMaps/release
 ### Install
 
 Download [red_dust_open_cut_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/red-dust-open-cut-1.0/red_dust_open_cut_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Red_Dust_Open_Cut_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
+
+## Starship Meridian 1.0
+
+`starship_meridian_1.0.sd7`: a 24 × 28 map for 4v4, port against starboard, the starboard half the port half's mirror image. A battle-carrier adrift in space, boarded from both sides at once; the two fleets fight for the ship's centreline. The whole ship and everything on board were modelled and painted for this map; its gadgets are All That Simmers' by Nikuksis.
+
+- **The ship** fills the map, bow north, engines at the stern, with a starfield all round it. The engine doesn't draw space as ground (`voidGround`), and the hull's rim walls it off from every ground unit but spiders.
+- **Each team's half:** four start rooms (two hangars outboard with fighters, a dropship and a cargo shuttle on their landing circles, and the crew deck and cargo hold inboard), a weapons bay, a power room with the team's own geothermal vent, an armory, a thruster bay and a machine shop, beside the team's own passage the length of the ship.
+- **The centreline,** five ways across: the raised bridge with its ramps and viewport, the command room round its holo-table, the main reactor glowing in a sunken well, the shield generator and the engine room.
+- **Walls** are bulkheads that no vehicle, bot or hover climbs, and they stop direct fire; spiders climb them. Doors are at least 500 wide.
+- **Metal:** three spots at each start, six more in each team's rooms, and two in each shared room; four geothermal vents. Craft, machines and props to reclaim.
+- **No wind in space,** and no tide.
+
+### Install
+
+Download [starship_meridian_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/starship-meridian-1.0/starship_meridian_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Starship_Meridian_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
