@@ -116,3 +116,18 @@ Download [red_dust_open_cut_1.0.sd7](https://github.com/danielkopko/BarMaps/rele
 ### Install
 
 Download [starship_meridian_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/starship-meridian-1.0/starship_meridian_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Starship_Meridian_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
+
+## Meridian Landfall 1.0
+
+`meridian_landfall_1.0.sd7`: a 32 × 36 map for 8v8, port against starboard, the starboard half the port half's mirror image. Starship Meridian has come down on an asteroid: the same ship in the middle, its hangars' bay doors open onto cratered moonrock. The fight goes on inside the ship and outside round it. The ship, the moonrock and everything on them were modelled and painted for this map and for Starship Meridian; its gadgets are All That Simmers' by Nikuksis.
+
+- **Sixteen starts:** four a side in the ship as on Starship Meridian, and four a side outside on dark, level mares. Each team's bay doors join its outside players to its hangars.
+- **Seven ways across:** the ship's five crossings, and round the bow and round the stern outside.
+- **Craters:** about 65 a side, small and big, with walls only bots climb and no ramps in or out. The big ones hold rich metal or a geothermal vent.
+- **Void pits:** four a side, blasted right through the asteroid. Only aircraft cross them. Each is a different rock with its own ore seams in its layered walls: rust-red iron, green copper, glinting silver ilmenite, gold in pale anorthosite.
+- **The asteroid's edge** is worn into a long, gullied slope, falling away into the void.
+- **Metal:** the ship's, three spots at each outside start, more on the flanks, contested metal at the bow and the stern, and rich metal in the bowls; seven vents. No wind, no tide.
+
+### Install
+
+Download [meridian_landfall_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/meridian-landfall-1.0/meridian_landfall_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Meridian_Landfall_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
