@@ -131,3 +131,18 @@ Download [starship_meridian_1.0.sd7](https://github.com/danielkopko/BarMaps/rele
 ### Install
 
 Download [meridian_landfall_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/meridian-landfall-1.0/meridian_landfall_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Meridian_Landfall_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
+
+## Marram Line 1.0
+
+`marram_line_1.0.sd7`: a 24 × 24 map for 4v4, not symmetric. A coast where an old war dug in and never left: two trench lines face each other across a dead man's zone, one dug into the last of the dunes, the other at the foot of a gentle hill of hedgerowed fields. Everything on it was modelled and painted for this map; its detail textures and gadgets are All That Simmers' by Nikuksis.
+
+- **The beach team** (starts 0 to 3) has its bases in the dunes and on a rocky headland, with the open sea behind it. Vehicles get off the beach only by three draws through the foredune, the headland's road and the inlet's bank; bots climb the dunes anywhere.
+- **The hill team** (starts 4 to 7) has its bases on the rise, with a ruined village and its church on the crest, a sheltered cove for its shipyards, and its own stretch of coast south of the inlet.
+- **The trenches:** each line has a fire trench with a fire step, a support trench and communication trenches. Bots climb in and out anywhere; vehicles and hovers cross only at four gaps a line, each covered by a concrete bunker. Wire and hedges stop bots and hovers, but tanks crush them.
+- **The dead man's zone:** a shelled meadow 1,400 to 2,200 across, with bomb craters only bots get into, wrecked tanks to reclaim, a ruined farm with a geothermal vent, and eight rich metal spots.
+- **The inlet:** 24 to 32 deep from the sea through both lines to the cove, so every ship, battleships included, sails into the fight. No land unit crosses it.
+- **Metal:** 46.8 metal/s a team and 24.0 in the zone; a vent for each team and one in the zone. Wind 6 to 18, tidal 18.
+
+### Install
+
+Download [marram_line_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/marram-line-1.0/marram_line_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Marram_Line_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
