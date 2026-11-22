@@ -102,9 +102,9 @@ Download [starfall_marsh_1.0.sd7](https://github.com/danielkopko/BarMaps/release
 
 Download [red_dust_open_cut_1.0.sd7](https://github.com/danielkopko/BarMaps/releases/download/red-dust-open-cut-1.0/red_dust_open_cut_1.0.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Red_Dust_Open_Cut_1.0.jpg` (also on the release): copy it in as for Simmering Ravine above.
 
-## Starship Meridian 1.1
+## Starship Meridian 1.2
 
-`starship_meridian_1.1.sd7`: a 24 × 28 map for 8v8, port against starboard, the starboard half the port half's mirror image. A battle-carrier adrift in space, boarded from both sides at once; the two fleets fight for the ship's centreline. The whole ship was modelled and painted for this map; its gadgets are All That Simmers' by Nikuksis.
+`starship_meridian_1.2.sd7`: a 24 × 28 map for 8v8, port against starboard, the starboard half the port half's mirror image. A battle-carrier adrift in space, boarded from both sides at once; the two fleets fight for the ship's centreline. The whole ship was modelled and painted for this map; its gadgets are All That Simmers' by Nikuksis.
 
 - **The ship** fills the map, bow north, engines at the stern, with a starfield all round it. The engine doesn't draw space as ground (`voidGround`), and the hull's rim walls it off from every ground unit but spiders. Its sides carry the ship's name, its hull number and its badge.
 - **Sixteen starts,** eight a side on the back line along the hull's wall, each marked by a floor circle with its role stencilled on it: AIR in the weapons bay, FRONT twice in each hangar and once in the thruster bay, TECH by the power room's geothermal vent, and SUPPORT in the thruster bay. The inboard rooms (the crew deck, armory, cargo hold and machine shop) are no one's start: ground to expand into.
@@ -116,7 +116,7 @@ Download [red_dust_open_cut_1.0.sd7](https://github.com/danielkopko/BarMaps/rele
 
 ### Install
 
-Download [starship_meridian_1.1.sd7](https://github.com/danielkopko/BarMaps/releases/download/starship-meridian-1.1/starship_meridian_1.1.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Starship_Meridian_1.1.jpg` (also on the release): copy it in as for Simmering Ravine above. 1.0 (4v4, with metal spots) stays on [its release](https://github.com/danielkopko/BarMaps/releases/tag/starship-meridian-1.0).
+Download [starship_meridian_1.2.sd7](https://github.com/danielkopko/BarMaps/releases/download/starship-meridian-1.2/starship_meridian_1.2.sd7) from this repo's release and copy it into BAR's `maps` folder. Its lobby picture is `LuaMenu\Images\Minimaps\Starship_Meridian_1.2.jpg` (also on the release): copy it in as for Simmering Ravine above. Use 1.2: on 1.1 metal extractors can't be placed. 1.0 (4v4, with metal spots) stays on [its release](https://github.com/danielkopko/BarMaps/releases/tag/starship-meridian-1.0).
 
 ## Meridian Landfall 1.0
 
